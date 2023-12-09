@@ -1,4 +1,4 @@
-![check!](/assets/banner2.jpg)
+![banner!](./assets/12_9_2023%205_42_49%20PM.png)
 
 # 👀 Current overview
 
@@ -14,7 +14,7 @@
 
 # 📫 Reach me out
 
-<div align="center" style="margin-top: 50px; margin-bottom: 50px; display:flex; justify-content:center; gap:10px">
+<div align="center" style="margin:50px; display:flex; justify-content:center; gap:20px">
   <a href="https://linkedin.com/in/mdnuruzzamannirob"><img width="50px" src="./assets/linkedin.png" />
   </a>
   <a href="https://www.facebook.com/mdnuruzzamannirob1"><img width="50px" src="./assets/facebook.png" />
@@ -24,7 +24,7 @@
 # 💻 Technologies that I know
 
 <div align="center" 
-margin-top="50px" style="margin-top:50px ; margin-bottom: 50px;"
+margin-top="50px" style="margin: 50px;"
 >
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,nodejs,express,mongodb" />
@@ -33,6 +33,6 @@ margin-top="50px" style="margin-top:50px ; margin-bottom: 50px;"
 
 # 📈 Current Statistics
 
-<div align="center " style="margin-top: 50px; margin-bottom: 50px;">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Md-Nuruzzaman-nirob&theme=react&card_width=500" alt="GitHub Streak" /></a>
+<div align="center " style="margin: 50px;">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Md-Nuruzzaman-nirob&theme=react&card_width=500_hieght=500" alt="GitHub Streak" /></a>
 </div>
