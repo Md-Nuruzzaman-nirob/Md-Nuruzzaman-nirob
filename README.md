@@ -14,23 +14,25 @@
 
 # 📫 Reach me out
 
-<p align="center" style="margin-top: 50px; margin-bottom: 50px;">
-  <a href="https://linkedin.com/in/mdnuruzzamannirob"><img style="width:150px" src="./assets/Linkedin-logo-png.png" alt="GitHub Streak" />
+<div align="center" style="margin-top: 50px; margin-bottom: 50px; display:flex; justify-content:center; gap:10px">
+  <a href="https://linkedin.com/in/mdnuruzzamannirob"><img width="50px" src="./assets/linkedin.png" />
   </a>
-  <a href="https://www.facebook.com/mdnuruzzamannirob1"><img style="width:170px;  margin-left: 50px;" src="./assets/Facebook_Logo_(2019).svg" alt="GitHub Streak" />
+  <a href="https://www.facebook.com/mdnuruzzamannirob1"><img width="50px" src="./assets/facebook.png" />
   </a>
-</p>
+</div>
 
 # 💻 Technologies that I know
 
-<p align="center" style="margin-top: 50px; margin-bottom: 50px;">
+<div align="center" 
+margin-top="50px" style="margin-top:50px ; margin-bottom: 50px;"
+>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,nodejs,express,mongodb" />
   </a>
-</p>
+</div>
 
 # 📈 Current Statistics
 
-<p align="center " style="margin-top: 50px; margin-bottom: 50px;">
+<div align="center " style="margin-top: 50px; margin-bottom: 50px;">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Md-Nuruzzaman-nirob&theme=react&card_width=500" alt="GitHub Streak" /></a>
-</p>
+</div>
